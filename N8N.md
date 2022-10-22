@@ -9,4 +9,5 @@ dateCreated: 2022-10-18T21:20:38.332Z
 ---
 
 # N8N and the wonders of automation
-todo
+
+Git repo of exported workflows: [N8N-workflows](https://github.com/osintukraine/N8N-workflows)
