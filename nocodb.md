@@ -2,7 +2,7 @@
 title: NocoDB
 description: 
 published: true
-date: 2022-10-23T13:48:52.620Z
+date: 2022-10-23T13:51:56.853Z
 tags: nocodb, nocode, api
 editor: markdown
 dateCreated: 2022-10-22T20:25:56.948Z
@@ -27,4 +27,4 @@ API for telehunt [Telehunt](https://nocodb.osintukraine.com/api/v1/db/meta/proje
 
 ## Media Previews
 
-- todo : find a way to concatenate two columns fields that contains all the data to have a new field that would generate the media preview on every tables
+- todo : find a way to concatenate two columns fields that contains all the data to have a new field that would generate the media preview on every rows
