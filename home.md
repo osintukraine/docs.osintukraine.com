@@ -2,7 +2,7 @@
 title: Home
 description: Overall view of the toolset
 published: true
-date: 2022-10-23T12:26:27.322Z
+date: 2022-10-23T14:39:58.751Z
 tags: tg-archive, cloudron, baserow, n8n, nocodb
 editor: markdown
 dateCreated: 2022-10-18T21:12:08.843Z
@@ -19,6 +19,7 @@ dateCreated: 2022-10-18T21:12:08.843Z
   - media preview in the work (wip)kanban & task system for geolocation teams (wip)
 - NocoDB as API provider from the 4 SQLite 
   - media preview (wip)public frontend with search/filter (wip)
+- [Trello like Wekan todo list](https://todo.osintukraine.com/) (only for members)
 
 ## Outside of cloudron
 - TG-Archive to scrap translated content back to off-telegram archives (SQLite)
