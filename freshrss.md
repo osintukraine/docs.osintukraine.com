@@ -2,10 +2,10 @@
 title: FreshRSS
 description: RSS feed aggregation
 published: true
-date: 2022-10-18T21:44:42.427Z
-tags: freshrss, rss
+date: 2022-10-23T12:26:08.091Z
+tags: rss, freshrss
 editor: markdown
-dateCreated: 2022-10-18T20:40:21.360Z
+dateCreated: 2022-10-23T12:25:47.417Z
 ---
 
 # General information

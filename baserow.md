@@ -2,7 +2,7 @@
 title: Baserow
 description: Baserow
 published: true
-date: 2022-10-23T10:14:23.961Z
+date: 2022-10-23T12:25:46.993Z
 tags: baserow
 editor: markdown
 dateCreated: 2022-10-18T21:21:35.860Z
