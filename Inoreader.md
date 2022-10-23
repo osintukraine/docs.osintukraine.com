@@ -2,7 +2,7 @@
 title: Inoreader
 description: Inoreader is being used to massively aggregate Telegram content without API limitations
 published: true
-date: 2022-10-23T12:44:44.348Z
+date: 2022-10-23T12:46:45.801Z
 tags: inoreader, webhook, rss, json
 editor: markdown
 dateCreated: 2022-10-23T11:53:54.106Z
@@ -23,4 +23,8 @@ pick up the OPML format to have a list of the current sources.
 
 - Post & channels views : 
 ![image.png](/image.png)
+
+- Diagram
+
+Currently working on a visual diagram that show the data flows between each applications
 
