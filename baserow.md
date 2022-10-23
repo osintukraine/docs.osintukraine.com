@@ -2,7 +2,7 @@
 title: Baserow
 description: Baserow
 published: true
-date: 2022-10-23T12:25:46.993Z
+date: 2022-10-23T13:12:20.442Z
 tags: baserow
 editor: markdown
 dateCreated: 2022-10-18T21:21:35.860Z
@@ -18,10 +18,15 @@ to avoid messing around with column formats and date specifications.
 
 You can then drag & drop the JSON documents keys you need and associate it to each baserow field in the N8N baserow node. 
 
+## Preview 
+[Ukraine](/https://db.osintukraine.com/public/grid/vw0suabvgKtxZQ5Na_Y9vQsa3mCzU3-Zq3rVRuU9UD4)
+[Russia](https://db.osintukraine.com/public/grid/8NRIJOd7hT3V7NbjxRKivwc4Ypqgz0hI1nz3wZgrmT4)
 ## How to use Baserow for collaboration
 
 ### Disinformation
 - labeling Mis/Disinformation with a team
+
+### Geolocation collaboration
 
 ### Hate tracker
 - mapping hate keywords used to amplify hate or propagate targeted harrassement 
