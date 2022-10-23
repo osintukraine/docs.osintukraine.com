@@ -2,7 +2,7 @@
 title: Baserow
 description: Baserow
 published: true
-date: 2022-10-23T13:12:20.442Z
+date: 2022-10-23T13:21:16.959Z
 tags: baserow
 editor: markdown
 dateCreated: 2022-10-18T21:21:35.860Z
@@ -27,6 +27,7 @@ You can then drag & drop the JSON documents keys you need and associate it to ea
 - labeling Mis/Disinformation with a team
 
 ### Geolocation collaboration
-
+- (wip) Kanban view of the incoming new translations/media files that can be used to work on geolocation efforts by different teams. 
 ### Hate tracker
 - mapping hate keywords used to amplify hate or propagate targeted harrassement 
+[Live tool](https://osintukraine.com/hate-scraper/)
